@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KelvinTichana-creator
-- 👀 I’m interested in ...Deep Learning and computer vision
-- 🌱 I’m currently learning ...Electrical & Electronic Engineering
+- 📡 I hold a B.Sc in Electrical and Electronic Engineering from Ashesi University, Ghana
+- 👀 I’m interested in ...Embedded Machine Learning, IoT, Telecoms engineering, computer vision, and VLSI (chip) design
+- 🌱 I’m currently learning ...ALX Software Engineering
 
 
 <!---
